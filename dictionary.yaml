@@ -1,0 +1,121 @@
+# Hebrew Developers Dictionary
+# A repository of Hebrew translations for software industry terms
+# 
+# Structure for each entry:
+#   phrase: The English term or phrase
+#   hebrew_translations: List of Hebrew translations
+#   description: Description of the term
+#   date_submitted: Date when the entry was added (YYYY-MM-DD)
+#   submitted_by: GitHub username of the contributor
+#   hashtags: Optional tags for categorization
+
+entries:
+  - phrase: "production environment"
+    hebrew_translations:
+      - "סביבת ייצור"
+    description: "A production environment is the live environment where the application or system is available to end-users. It's the final stage where code runs after passing through development and testing phases."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "deployment"
+      - "infrastructure"
+
+  - phrase: "code review"
+    hebrew_translations:
+      - "סקירת קוד"
+      - "ביקורת קוד"
+    description: "The systematic examination of source code by peers to identify bugs, improve code quality, and share knowledge within a development team."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "development"
+      - "quality"
+
+  - phrase: "pull request"
+    hebrew_translations:
+      - "בקשת משיכה"
+      - "בקשת עדכון"
+    description: "A method of submitting contributions to a project where developers notify team members that they have completed a feature and request that their code be reviewed and merged into the main codebase."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "git"
+      - "collaboration"
+
+  - phrase: "merge conflict"
+    hebrew_translations:
+      - "קונפליקט מיזוג"
+      - "התנגשות מיזוג"
+    description: "An event that occurs when Git is unable to automatically resolve differences in code between two commits, requiring manual intervention to resolve the conflicts."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "git"
+      - "version-control"
+
+  - phrase: "unit test"
+    hebrew_translations:
+      - "בדיקת יחידה"
+      - "מבחן יחידה"
+    description: "A type of software testing where individual units or components of software are tested in isolation to ensure they work correctly."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "testing"
+      - "quality"
+
+  - phrase: "continuous integration"
+    hebrew_translations:
+      - "אינטגרציה רצופה"
+      - "שילוב מתמשך"
+    description: "A development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "devops"
+      - "automation"
+
+  - phrase: "bug"
+    hebrew_translations:
+      - "באג"
+      - "תקלה"
+      - "שגיאה"
+    description: "An error, flaw, or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "debugging"
+      - "quality"
+
+  - phrase: "deployment"
+    hebrew_translations:
+      - "פריסה"
+      - "העלאה לאוויר"
+    description: "The process of making a software application available for use, typically by transferring it from a development environment to a production environment."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "deployment"
+      - "infrastructure"
+
+  - phrase: "database"
+    hebrew_translations:
+      - "בסיס נתונים"
+      - "מסד נתונים"
+    description: "An organized collection of structured information or data, typically stored electronically in a computer system and managed by a database management system (DBMS)."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "data"
+      - "infrastructure"
+
+  - phrase: "API"
+    hebrew_translations:
+      - "ממשק תכנות יישומים"
+      - "API"
+    description: "Application Programming Interface - A set of rules and protocols that allows different software applications to communicate with each other."
+    date_submitted: "2025-11-17"
+    submitted_by: "blade"
+    hashtags:
+      - "architecture"
+      - "integration"
